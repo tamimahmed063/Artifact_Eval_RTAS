@@ -1,0 +1,2 @@
+Statistics for model 'NetworkScheduler',Problem type,Rows,Columns,Nonzeros,Continuous_Variables,Integer_Variables,Binary_Variables,Matrix range_Min,Matrix range_Max,Objective range_Min,Objective range_Max,Bounds range_Min,Bounds range_Max,RHS range_Min,RHS range_Max,Input_File
+,MIP,1770,738,5115,0,738,714,1e+00,3e+05,1e+00,1e+00,1e+00,3e+05,1e+00,3e+05,sample_1.csv
